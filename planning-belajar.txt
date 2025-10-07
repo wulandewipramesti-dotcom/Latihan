@@ -3,11 +3,13 @@ saya akan belajar :
   - Git
   - Laravel
   - React Js
-  - C++
   - Struktur Data
   - SQL 
-  - Golang
   - PHP
   - C#
   - Python
-
+  - JavaScript
+  - HTML & CSS
+  - REST API
+  - Algoritma
+  - Node.js
